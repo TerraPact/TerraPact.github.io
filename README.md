@@ -1,6 +1,6 @@
 # TerraPact Token (TRPT)
 
-![Logo](terrapact-logo.jpg) <!-- لوگوی ما رو اینجا آپلود کن -->
+<img src="terrapact-logo.jpg" alt="TerraPact Logo" width="200" height="auto" style="max-width: 25%;">
 
 ## خوش آمدید!
  توکن TerraPact Token ابزاری برای صلح جهانی و پایداری زیست‌محیطی است. بر پایه بلاکچین، با تمرکز بر DeFi و کمک‌های بشردوستانه.
