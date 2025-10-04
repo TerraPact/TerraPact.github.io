@@ -18,7 +18,7 @@ TerraPact Token (TRPT) is a blockchain-based cryptocurrency designed to promote 
 | Partnerships | Q1 2026 | Collaborations with NGOs for transparent impact tracking on blockchain. |
 | Community Growth | Ongoing | Airdrops, ESG reports, and global events. |
 
-[Download Whitepaper](whitepaper.pdf) | [Buy TRPT](https://dexscreener.com/search?q=TRPT) | [Join Telegram](t.me/TerraPact (TRPT))
+[Download Whitepaper](whitepaper.pdf) | [Buy TRPT](https://dexscreener.com/search?q=TRPT) |[Join Telegram](https://t.me/TerraPactTRPT)
 
 ---
 
