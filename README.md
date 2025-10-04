@@ -23,7 +23,9 @@ TerraPact Token (TRPT) is a blockchain-based cryptocurrency designed to promote 
 ---
 ## Support TerraPact
 Help fund our Peace & Green initiatives! Send USDT (TRC20) to:  
+
 **TRPDi2rVVJ3ZmVFgXJ4V5eao2j9YihqbMH**  
+
 All donations go 100% to humanitarian aid and sustainability projects. Track via Tronscan: [tronscan.org/#/address/TRPDi2rVVJ3ZmVFgXJ4V5eao2j9YihqbMH](https://tronscan.org/#/address/TRPDi2rVVJ3ZmVFgXJ4V5eao2j9YihqbMH).  
 Thank you for joining the pact! 🌍
 
