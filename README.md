@@ -1,6 +1,6 @@
 # TerraPact Token (TRPT)
 
-<img src="terrapact-logo.jpg" alt="TerraPact Logo" width="200" height="auto" style="max-width: 25%;">
+<img src="logo.png" alt="TerraPact Logo" width="200" height="auto" style="max-width: 25%;">
 
 ## Welcome to TerraPact Token!
 
